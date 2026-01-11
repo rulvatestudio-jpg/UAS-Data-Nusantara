@@ -35,3 +35,7 @@ Gunakan akun berikut untuk login:
 | :--- | :--- | :--- | :--- |
 | **Admin** | admin | admin123 | Full Akses (CRUD) |
 | **User** | user | user123 | Read Only |
+
+## Link vidio demo Web
+
+https://youtu.be/X19DnGIS7iA?si=G4yFPMSH0l4tN-zP
